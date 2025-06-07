@@ -12,7 +12,7 @@ bool selesai;
 int skor;
 int jedaGame = 5000;
 
-enum Arah
+enum Arah // ini enum
 {
     DIAM = 0,
     KIRI,
